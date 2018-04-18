@@ -10,7 +10,7 @@ struct Test {
 
 int main() {
 	Test* t = new Test();
-
+	
 	DS::createStruct(t, 8, 3.141f, 32);
 	
 	std::cout << t->a << std::endl;
