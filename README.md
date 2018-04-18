@@ -1,5 +1,5 @@
 # DynamicSerialization
-A header-only library for serializing c++ structs.
+A header-only library for serializing c++ data structures.
 
 Example Usage:
 ```c++
